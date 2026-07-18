@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in Symbolic Systems within Stanford's Philosophy department, advised by [Thomas Icard](https://web.stanford.edu/~icard/). My work sits at the intersection of (the philosophy of) cognitive science and machine learning; I also have a growing interest in normative questions around AI's development and deployment.
+I'm a PhD student in Symbolic Systems within Stanford's Philosophy department, advised by [Thomas Icard](https://web.stanford.edu/~icard/). My work sits at the intersection of (the philosophy of) cognitive science and machine learning; I'm also interested in normative questions around AI's development and deployment.
 
 Here is my [CV](assets/pdf/Harding_CV.pdf). Here is my [Google Scholar Page](https://scholar.google.com/citations?user=VzPtr7EAAAAJ&hl=en).
 
